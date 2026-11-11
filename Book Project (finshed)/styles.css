@@ -1,0 +1,23 @@
+button {
+    border-radius: 20px;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    border-color: rgb(255, 120, 163);
+    
+}
+
+div {
+    background-color: pink;
+    border-radius: 30px;
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 253, 253);
+
+}
